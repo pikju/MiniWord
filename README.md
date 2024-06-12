@@ -8,12 +8,6 @@
 ---
 
 <div align="center">
-<p><strong><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a></strong></p>
-</div>
-
----
-
-<div align="center">
  Your <a href="https://github.com/mini-software/MiniWord">Star</a> and <a href="https://miniexcel.github.io">dotnate</a> can make MiniWord better
 </div>
 
