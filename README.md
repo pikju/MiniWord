@@ -1,14 +1,8 @@
 <div align="center">
 <p><a href="https://www.nuget.org/packages/MiniWord"><img src="https://img.shields.io/nuget/v/MiniWord.svg" alt="NuGet"></a>  <a href="https://www.nuget.org/packages/MiniWord"><img src="https://img.shields.io/nuget/dt/MiniWord.svg" alt=""></a>  
-<a href="https://github.com/mini-software/MiniWord" rel="nofollow"><img src="https://img.shields.io/github/stars/mini-software/MiniWord?logo=github" alt="GitHub stars"></a> 
+<a href="https://github.com/pikju/MiniWord" rel="nofollow"><img src="https://img.shields.io/github/stars/pikju/MiniWord?logo=github" alt="GitHub stars"></a> 
 <a href="https://www.nuget.org/packages/MiniWord"><img src="https://img.shields.io/badge/.NET-%3E%3D%204.5-red.svg" alt="version"></a>
 </p>
-</div>
-
----
-
-<div align="center">
- Your <a href="https://github.com/mini-software/MiniWord">Star</a> and <a href="https://miniexcel.github.io">dotnate</a> can make MiniWord better
 </div>
 
 ---
@@ -221,13 +215,13 @@ MiniWord.SaveAsByTemplate(path, templatePath, value);
 
 ![before_foreach](https://user-images.githubusercontent.com/38832863/220123955-063c9345-3998-4fd7-982c-8d1e3b48bbf8.PNG)
 
-<img width="755" alt="Screenshot 2023-08-08 at 17 59 37" src="https://github.com/mini-software/MiniWord/assets/38832863/7811bf53-48cf-4fa4-85d7-d98663feb119">
+<img width="755" alt="Screenshot 2023-08-08 at 17 59 37" src="https://github.com/pikju/MiniWord/assets/38832863/7811bf53-48cf-4fa4-85d7-d98663feb119">
 
 ##### Result
 
 ![after_foreach](https://user-images.githubusercontent.com/38832863/220123960-913a7140-2fa2-415e-bb3e-456e04167382.PNG)
 
-<img width="755" alt="Screenshot 2023-08-08 at 18 00 15" src="https://github.com/mini-software/MiniWord/assets/38832863/9e1afcf7-64b1-441c-8488-9ea2bd3114a1">
+<img width="755" alt="Screenshot 2023-08-08 at 18 00 15" src="https://github.com/pikju/MiniWord/assets/38832863/9e1afcf7-64b1-441c-8488-9ea2bd3114a1">
 
 ### If statement inside template
 
@@ -268,11 +262,11 @@ MiniWord.SaveAsByTemplate(path, templatePath, value);
 
 ##### Template For Single Paragraph
 
-<img width="931" alt="Screenshot 2023-08-08 at 17 55 46" src="https://github.com/mini-software/MiniWord/assets/38832863/2adea468-a9c1-422f-a270-167086bc4ba3">
+<img width="931" alt="Screenshot 2023-08-08 at 17 55 46" src="https://github.com/pikju/MiniWord/assets/38832863/2adea468-a9c1-422f-a270-167086bc4ba3">
 
 ##### Result Of Single Paragraph
 
-<img width="536" alt="Screenshot 2023-08-08 at 17 56 47" src="https://github.com/mini-software/MiniWord/assets/38832863/01f71c0f-eee0-4189-8510-abe063126514">
+<img width="536" alt="Screenshot 2023-08-08 at 17 56 47" src="https://github.com/pikju/MiniWord/assets/38832863/01f71c0f-eee0-4189-8510-abe063126514">
 
 ### ColorText
 
@@ -460,10 +454,3 @@ public class ApiController : Controller
     }
 }
 ```
-
-
-
-
-
-
-## Support : [Donate Link](https://miniexcel.github.io/)
